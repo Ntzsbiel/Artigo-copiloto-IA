@@ -1,4 +1,4 @@
-#  Artigo: ChatGPT como Ferramenta de Copiloto de Código
+#  [Artigo](https://web.dio.me/articles/transforme-sua-rotina-de-programacao-descubra-o-poder-do-chatgpt-como-copiloto-de-codigo?back=%2Farticles&page=1&order=oldest): ChatGPT como Ferramenta de Copiloto de Código
 
 ## 🚀 Introdução
 Bem-vindo(a) ao meu projeto de criação de um artigo sobre o uso do ChatGPT como copiloto de código! Neste projeto, vamos explorar como a inteligência artificial pode ajudar desenvolvedores a escrever, corrigir e otimizar seus códigos de forma mais eficiente. A ideia é mostrar como o ChatGPT pode ser uma ferramenta valiosa no dia a dia de qualquer programador.
